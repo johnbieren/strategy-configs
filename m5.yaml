@@ -1,0 +1,4 @@
+---
+mapping:
+  - component: applicationservice
+    repository: quay.io/hacbs-release-tests/applicationservice
