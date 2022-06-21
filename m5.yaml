@@ -1,4 +1,5 @@
 ---
 mapping:
-  - name: component-1
-    repository: quay.io/hacbs-release-tests/applicationservice
+  components:
+    - name: component-1
+      repository: quay.io/hacbs-release-tests/applicationservice
