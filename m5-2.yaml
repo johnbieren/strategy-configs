@@ -1,5 +1,0 @@
----
-mapping:
-  components:
-    - name: helloworld
-      repository: quay.io/hacbs-release-tests/applicationservice
