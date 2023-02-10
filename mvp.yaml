@@ -1,5 +1,5 @@
 ---
 mapping:
   components:
-    - name: dc-metro-map
-      repository: quay.io/hacbs-release-tests/shebert-dc-metro-map
+    - name: devfile-sample-python-basic
+      repository: quay.io/jbieren/shebert-dc-metro-map
